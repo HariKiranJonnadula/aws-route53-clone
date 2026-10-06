@@ -1,0 +1,17 @@
+# Environments & virtualenvs
+backend/venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database file (keep or ignore depending on preference, keep seed script)
+*.sqlite
+*.sqlite3
+
+# Node & Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.git/
+.DS_Store
+Thumbs.db
