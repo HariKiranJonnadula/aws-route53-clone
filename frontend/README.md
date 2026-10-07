@@ -1,5 +1,6 @@
 # Amazon Route 53 Console — Frontend Application
 
+
 A pixel-accurate clone of the **AWS Route 53 Management Console** built using **Next.js (App Router)**, **TypeScript**, and the **AWS Cloudscape Design System**.
 
 ---
